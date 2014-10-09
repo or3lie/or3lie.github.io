@@ -1,0 +1,7 @@
+Options -Indexes
+
+#AuthUserFile /homez.527/zoreol/www/aurelie/.htpasswd
+#AuthGroupFile /dev/null
+#AuthName "Accès Restreint"
+#AuthType Basic
+#require valid-user
