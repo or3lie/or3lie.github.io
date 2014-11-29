@@ -883,6 +883,37 @@ body.page-interior ul {
 	margin-bottom: 20px;
 }
 
+
+/* cheat-sheet */
+.snippet {
+	margin-bottom: 20px;
+	clear: both;
+}
+.snippet:nth-of-type(1) {
+	padding-top: 20px;
+}
+.snippet > span {
+	display: block;
+}
+.snippet .string {
+	display: block;
+	background-color: #f6f7f9;
+	padding: 2px 5px;
+	color: #597090;
+}
+.snippet .tab {
+	display: block;
+	margin-left: 30px;
+}
+code {
+	background-color: transparent;
+	padding: 0;
+	color: #777777;
+}
+
+
+
+
 /*******************************************************
 *
 * @section 2. Colours
